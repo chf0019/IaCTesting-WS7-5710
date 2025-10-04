@@ -8,7 +8,7 @@ from util import Util
 from iac_testing_antipatterns import IaCTestingAntipatterns
 
 def main():
-    
+    print("added for 5710-ws7")
     
     
     base_dir= input("Please enter the directory: ")
